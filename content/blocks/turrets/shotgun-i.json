@@ -45,6 +45,6 @@
     "category": "turret",
     "research": "duo",
     "requirements": [    
-        "copper"/35
+        "copper/35"
     ]
 }
