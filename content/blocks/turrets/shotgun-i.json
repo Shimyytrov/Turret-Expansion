@@ -5,8 +5,9 @@
     "health": 300,
     "size": 2,
     "reloadTime": 30,
+    "inaccuracy": 10,
     "shootSound": "shotgun1",
-    "range": 75,
+    "range": 125,
     "shots": 12,
     "rotateSpeed": 30,
     "ammoTypes": {
