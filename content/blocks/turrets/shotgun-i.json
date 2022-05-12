@@ -41,5 +41,10 @@
             "splashDamage": 60,
             "splashDamageRadius": 25
         }
-    }
+    },
+    "category": "turret",
+    "research": "duo",
+    "requirements": [    
+        "copper"/35
+    ]
 }
