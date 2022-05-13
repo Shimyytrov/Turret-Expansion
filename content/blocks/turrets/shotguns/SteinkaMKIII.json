@@ -1,0 +1,51 @@
+{
+    "type": "ItemTurret",
+    "name": "[Shotgun] Steinka MKIII",
+    "description": "The ultimate version of Steinka. I hope it isn't over-powered...",
+    "health": 450,
+    "size": 2,
+    "reloadTime": 60,
+    "inaccuracy": 7,
+    "shootSound": "SteinkaMKIII",
+    "range": 175,
+    "shots": 12,
+    "rotateSpeed": 25,
+    "ammoTypes": {
+        "copper": {
+          "speed": 12,
+          "damage": 50,
+          "width": 2,
+          "height": 9,
+          "shootEffect": "shootSmall",
+          "smokeEffect": "shootSmallSmoke",
+          "lifetime": 60
+        },
+        "lead": {
+            "speed": 15,
+            "damage": 59,
+            "width": 2,
+            "height": 9,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60
+          },
+        "metaglass": {
+            "speed": 20,
+            "damage": 60,
+            "width": 2,
+            "height": 9,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60,
+            "hitEffect": "flakExplosion",
+            "splashDamage": 70,
+            "splashDamageRadius": 35
+        }
+    },
+    "category": "turretd",
+    "research": "SteinkaMKI",
+    "requirements": [    
+        "copper/50",
+        "lead/20"
+    ]
+}

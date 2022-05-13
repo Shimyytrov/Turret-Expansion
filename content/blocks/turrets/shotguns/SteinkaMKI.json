@@ -1,0 +1,50 @@
+{
+    "type": "ItemTurret",
+    "name": "[Shotgun] Steinka MKI",
+    "description": "Designed by Deutsche Legendenindustrie. Effective on Crawlers!",
+    "health": 300,
+    "size": 2,
+    "reloadTime": 30,
+    "inaccuracy": 10,
+    "shootSound": "SteinkaMKI",
+    "range": 125,
+    "shots": 12,
+    "rotateSpeed": 30,
+    "ammoTypes": {
+        "copper": {
+          "speed": 8,
+          "damage": 30,
+          "width": 2,
+          "height": 9,
+          "shootEffect": "shootSmall",
+          "smokeEffect": "shootSmallSmoke",
+          "lifetime": 60
+        },
+        "lead": {
+            "speed": 8,
+            "damage": 34,
+            "width": 2,
+            "height": 9,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60
+          },
+        "metaglass": {
+            "speed": 10,
+            "damage": 47,
+            "width": 2,
+            "height": 9,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60,
+            "hitEffect": "flakExplosion",
+            "splashDamage": 60,
+            "splashDamageRadius": 25
+        }
+    },
+    "category": "turret",
+    "research": "duo",
+    "requirements": [    
+        "copper/35"
+    ]
+}
