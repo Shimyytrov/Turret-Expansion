@@ -1,0 +1,12 @@
+{
+    "localizedName": "Flag of Schmitrovland",
+    "description": "Flag of Shimyytrov Democratic Federal Empire(Schmitrovland). Every turrets above this flag are from Schmitrovland.",
+    "type": "Wall",
+    "health": 10,
+    "size": 3,
+    "requirements": [
+        "copper/1"
+    ],
+    "category": "defense",
+    "research": "duo"
+}

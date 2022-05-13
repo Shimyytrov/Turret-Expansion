@@ -1,0 +1,50 @@
+{
+    "type": "ItemTurret",
+    "name": "[MG] Kavtashka MKI",
+    "description": "Designed by Kalyona Industriya. A powerful machine gun to protect the buildings.",
+    "health": 300,
+    "size": 2,
+    "reloadTime": 10,
+    "inaccuracy": 2,
+    "shootSound": "KavtashkaMKI",
+    "range": 175,
+    "shots": 1,
+    "rotateSpeed": 15,
+    "ammoTypes": {
+        "copper": {
+          "speed": 8,
+          "damage": 25,
+          "width": 2,
+          "height": 9,
+          "shootEffect": "shootSmall",
+          "smokeEffect": "shootSmallSmoke",
+          "lifetime": 60
+        },
+        "lead": {
+            "speed": 10,
+            "damage": 30,
+            "width": 3,
+            "height": 10,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60
+        },
+        "graphite": {
+            "speed": 12,
+            "damage": 45,
+            "width": 2,
+            "height": 10,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60,
+            "homingRange": 100,
+            "homingPower": 0.1
+        }
+    },
+    "category": "turret",
+    "research": "Schmitrovland",
+    "requirements": [    
+        "copper/35",
+        "lead/5"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "ItemTurret",
+    "name": "[MG] Kavtashka MKIII",
+    "description": "Ultimate version, which have a longer range and damage. Also can shoot faster(Gotta go BRRRRRR).",
+    "health": 450,
+    "size": 2,
+    "reloadTime": 3,
+    "inaccuracy": 1,
+    "shootSound": "KavtashkaMKIII",
+    "range": 225,
+    "shots": 1,
+    "rotateSpeed": 20,
+    "ammoTypes": {
+        "copper": {
+          "speed": 8,
+          "damage": 40,
+          "width": 2,
+          "height": 9,
+          "shootEffect": "shootSmall",
+          "smokeEffect": "shootSmallSmoke",
+          "lifetime": 60
+        },
+        "lead": {
+            "speed": 10,
+            "damage": 50,
+            "width": 3,
+            "height": 10,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60
+        },
+        "graphite": {
+            "speed": 12,
+            "damage": 65,
+            "width": 2,
+            "height": 10,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+            "lifetime": 60,
+            "homingRange": 100,
+            "homingPower": 0.1
+        }
+    },
+    "category": "turret",
+    "research": "KavtashkaMKII",
+    "requirements": [    
+        "copper/45",
+        "lead/15",
+        "graphite/5"
+    ]
+}

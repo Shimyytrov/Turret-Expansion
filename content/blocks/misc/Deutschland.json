@@ -1,0 +1,12 @@
+{
+    "localizedName": "Flag of Deutschland",
+    "description": "Flag of Germany. Every turrets above this flag are from Germany.",
+    "type": "Wall",
+    "health": 10,
+    "size": 3,
+    "requirements": [
+        "copper/1"
+    ],
+    "category": "defense",
+    "research": "duo"
+}
