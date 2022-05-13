@@ -42,7 +42,7 @@
             "splashDamageRadius": 35
         }
     },
-    "category": "turretd",
+    "category": "turret",
     "research": "SteinkaMKI",
     "requirements": [    
         "copper/50",
