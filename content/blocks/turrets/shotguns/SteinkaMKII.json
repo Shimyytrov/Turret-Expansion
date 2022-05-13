@@ -4,7 +4,7 @@
     "description": "The improved version of Steinka, which can shot further.",
     "health": 350,
     "size": 2,
-    "reloadTime": 45,
+    "reloadTime": 25,
     "inaccuracy": 7,
     "shootSound": "SteinkaMKII",
     "range": 168,

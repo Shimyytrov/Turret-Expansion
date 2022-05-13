@@ -4,7 +4,7 @@
     "description": "The ultimate version of Steinka. I hope it isn't over-powered...",
     "health": 450,
     "size": 2,
-    "reloadTime": 60,
+    "reloadTime": 20,
     "inaccuracy": 7,
     "shootSound": "SteinkaMKIII",
     "range": 175,
