@@ -43,7 +43,7 @@
         }
     },
     "category": "turret",
-    "research": "SteinkaMKI",
+    "research": "SteinkaMKII",
     "requirements": [    
         "copper/50",
         "lead/20"
