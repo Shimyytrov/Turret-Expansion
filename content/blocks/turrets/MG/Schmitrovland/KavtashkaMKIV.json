@@ -1,5 +1,5 @@
 {
-    "type": "DoubleTurret",
+    "type": "ItemTurret",
     "name": "[MG] Kavtashka MKIV",
     "description": "Special version, which  can shoot REAQLLY fast(BRRRRRR).",
     "health": 500,
