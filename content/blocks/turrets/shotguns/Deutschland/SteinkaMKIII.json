@@ -46,6 +46,7 @@
     "research": "SteinkaMKII",
     "requirements": [    
         "copper/50",
-        "lead/20"
+        "lead/20",
+        "graphite/5"
     ]
 }
