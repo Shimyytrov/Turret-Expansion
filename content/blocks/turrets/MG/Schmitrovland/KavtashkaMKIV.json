@@ -4,7 +4,7 @@
     "description": "Special version, which  can shoot REAQLLY fast(BRRRRRR).",
     "health": 500,
     "size": 2,
-    "reloadTime": 0,
+    "reloadTime": 1,
     "inaccuracy": 2,
     "shootSound": "KavtashkaMKIII",
     "range": 225,
