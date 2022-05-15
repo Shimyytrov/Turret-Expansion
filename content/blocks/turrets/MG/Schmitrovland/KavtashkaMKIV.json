@@ -6,7 +6,7 @@
     "size": 2,
     "reloadTime": 0,
     "inaccuracy": 2,
-    "shootSound": "KavtashkaMKIV",
+    "shootSound": "KavtashkaMKIV_raw",
     "range": 225,
     "shots": 1,
     "rotateSpeed": 20,
