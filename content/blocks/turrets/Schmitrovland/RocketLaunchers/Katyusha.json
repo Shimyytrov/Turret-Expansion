@@ -25,7 +25,7 @@
             "height": 9,
             "hitEffect": "blastExplosion",
             "lifetime": 240000,
-            "homingRange": 60000,
+            "homingRange": 2000,
             "homingPower": 0.03,
             "splashDamage": 75,
             "splashDamageRadius": 100,
@@ -42,7 +42,7 @@
             "height": 9,
             "hitEffect": "blastExplosion",
             "lifetime": 240000,
-            "homingRange": 60000,
+            "homingRange": 2000,
             "homingPower": 0.03,
             "splashDamage": 65,
             "splashDamageRadius": 60,
@@ -58,7 +58,7 @@
             "width": 2,
             "height": 9,
             "lifetime": 120000,
-            "homingRange": 60000,
+            "homingRange": 2000,
             "homingPower": 0.08,
             "hitSound": "MetalHitRL"
         }
