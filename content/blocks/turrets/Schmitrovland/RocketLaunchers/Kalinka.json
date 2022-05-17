@@ -63,7 +63,7 @@
             "lifetime": 120,
             "homingRange": 250,
             "homingPower": 0.8,
-            "hitSound": "MetalHitRL"
+            "hitSound": "ExplodeRL"
         }
     },
     "category": "turret",
