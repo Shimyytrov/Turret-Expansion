@@ -8,7 +8,7 @@
     "inaccuracy": 360,
     "shootSound": "KalinkaRL",
     "range": 60000,
-    "shots": 1,
+    "shots": 8,
     "shootX": 0,
     "shootY": -6,
     "shootCone": 360,
@@ -43,7 +43,7 @@
             "hitEffect": "blastExplosion",
             "lifetime": 240000,
             "homingRange": 60000,
-            "homingPower": 0.01,
+            "homingPower": 0.03,
             "splashDamage": 65,
             "splashDamageRadius": 60,
             "hitSound": "ExplodeRL"
