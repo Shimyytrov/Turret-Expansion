@@ -9,7 +9,7 @@
     "shootSound": "KalinkaRL",
     "range": 600000000,
     "shots": 10,
-    "xRand": 6,
+    "xRand": 12,
     "shootCone": 360,
     "rotateSpeed": 0,
     "ammoTypes": {
@@ -25,8 +25,8 @@
             "shootEffect": "shootBig",
             "smokeEffect": "shootBigSmoke",
             "hitEffect": "blastExplosion",
-            "lifetime": 240,
-            "homingRange": 250,
+            "lifetime": 240000,
+            "homingRange": 25000,
             "homingPower": 0.3,
             "splashDamage": 75,
             "splashDamageRadius": 100,
@@ -44,8 +44,8 @@
             "shootEffect": "shootBig",
             "smokeEffect": "shootBigSmoke",
             "hitEffect": "blastExplosion",
-            "lifetime": 240,
-            "homingRange": 250,
+            "lifetime": 240000,
+            "homingRange": 25000,
             "homingPower": 0.1,
             "splashDamage": 65,
             "splashDamageRadius": 60,
@@ -62,8 +62,8 @@
             "height": 9,
             "shootEffect": "shootBig",
             "smokeEffect": "shootBigSmoke",
-            "lifetime": 120,
-            "homingRange": 250,
+            "lifetime": 120000,
+            "homingRange": 25000,
             "homingPower": 0.8,
             "hitSound": "MetalHitRL"
         }
@@ -71,8 +71,10 @@
     "category": "turret",
     "research": "Schmitrovland",
     "requirements": [    
-        "graphite/35",
-        "silicon/15",
-        "lead/5"
+        "graphite/100",
+        "silicon/150",
+        "lead/100",
+        "copper/50",
+        "titanium/25"
     ]
 }
