@@ -4,11 +4,11 @@
     "description": "Designed by Kalyona Industriya. A rocket launcher.",
     "health": 1300,
     "size": 2,
-    "reloadTime": 120,
+    "reloadTime": 15,
     "inaccuracy": 10,
     "shootSound": "KalinkaRL",
     "range": 350,
-    "shots": 4,
+    "shots": 1,
     "rotateSpeed": 5,
     "ammoTypes": {
         "blast-compound": {
