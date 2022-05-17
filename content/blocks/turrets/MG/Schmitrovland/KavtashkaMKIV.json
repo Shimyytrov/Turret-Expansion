@@ -18,7 +18,8 @@
           "height": 9,
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
-          "lifetime": 60
+          "lifetime": 60,
+            "hitSound": "hitMG"
         },
         "lead": {
             "speed": 10,
@@ -27,7 +28,8 @@
             "height": 10,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
-            "lifetime": 60
+            "lifetime": 60,
+            "hitSound": "hitMG"
         },
         "graphite": {
             "speed": 12,
@@ -38,7 +40,8 @@
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
             "homingRange": 100,
-            "homingPower": 0.1
+            "homingPower": 0.1,
+            "hitSound": "hitMG"
         }
     },
     "category": "turret",
