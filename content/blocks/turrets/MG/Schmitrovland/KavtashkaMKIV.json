@@ -19,7 +19,7 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-            "hitSound": "hitMinigun"
+          "hitSound": "hitMinigun"
         },
         "lead": {
             "speed": 10,
