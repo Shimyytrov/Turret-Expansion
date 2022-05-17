@@ -7,7 +7,7 @@
     "reloadTime": 600,
     "inaccuracy": 10,
     "shootSound": "KalinkaRL",
-    "range": 600000000,
+    "range": 60000,
     "shots": 10,
     "xRand": 12,
     "shootCone": 360,
