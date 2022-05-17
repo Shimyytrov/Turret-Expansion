@@ -8,7 +8,7 @@
     "inaccuracy": 360,
     "shootSound": "KalinkaRL",
     "range": 60000,
-    "shots": 1,
+    "shots": 4,
     "shootX": 0,
     "shootY": -6,
     "shootCone": 360,
