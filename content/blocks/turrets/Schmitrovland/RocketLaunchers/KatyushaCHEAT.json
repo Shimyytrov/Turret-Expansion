@@ -4,7 +4,7 @@
     "description": "A debug turret that will ruin your game experince.",
     "health": 15000,
     "size": 4,
-    "reloadTime": 0,
+    "reloadTime": 1,
     "inaccuracy": 360,
     "shootSound": "KalinkaRL",
     "range": 60000,
