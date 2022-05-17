@@ -5,7 +5,7 @@
     "health": 15000,
     "size": 4,
     "reloadTime": 60,
-    "inaccuracy": 10,
+    "inaccuracy": 360,
     "shootSound": "KalinkaRL",
     "range": 60000,
     "shots": 1,
