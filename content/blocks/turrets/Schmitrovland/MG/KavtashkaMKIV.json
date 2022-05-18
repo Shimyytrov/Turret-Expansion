@@ -9,6 +9,7 @@
     "shootSound": "KavtashkaMKIV_raw",
     "range": 225,
     "shots": 1,
+    "maxAmmo": 6000,
     "rotateSpeed": 20,
     "ammoTypes": {
         "copper": {
@@ -19,7 +20,8 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "hitMinigun"
+          "hitSound": "hitMinigun",
+          "ammoMultiplier": 10
         },
         "lead": {
             "speed": 10,
@@ -29,7 +31,8 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "hitMinigun"
+            "hitSound": "hitMinigun",
+            "ammoMultiplier": 10
         },
         "graphite": {
             "speed": 12,
@@ -41,7 +44,8 @@
             "lifetime": 60,
             "homingRange": 100,
             "homingPower": 0.1,
-            "hitSound": "hitMinigun"
+            "hitSound": "hitMinigun",
+            "ammoMultiplier": 10
         }
     },
     "category": "turret",
