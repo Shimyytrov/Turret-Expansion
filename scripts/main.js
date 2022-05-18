@@ -9,11 +9,3 @@ Events.on(UnitDestroyEvent, event => {
         Vars.ui.hudfrag.showToast("Wasted.");
     }
   })
-  Events.on(SectorCaptureEvent, event => {
-    const Victory = lib.loadSound("Victory");
-    playOnce("Victory");
-})
-Events.on(WaveEvent, event => {
-    const Victory = lib.loadSound("Victory");
-    playOnce("Victory");
-})
