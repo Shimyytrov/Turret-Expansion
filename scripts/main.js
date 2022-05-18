@@ -11,9 +11,9 @@ Events.on(UnitDestroyEvent, event => {
   })
   Events.on(SectorCaptureEvent, event => {
     const Victory = lib.loadSound("Victory");
-    Victory.at(1, 1);
+    playOnce("Victory");
 })
 Events.on(WaveEvent, event => {
     const Victory = lib.loadSound("Victory");
-    Victory.at(1, 1);
+    playOnce("Victory");
 })
