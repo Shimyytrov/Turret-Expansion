@@ -1,5 +1,6 @@
 print("Mod loaded!")
 require("alib");
+const lib = require("alib");
 
 // listen for the event where a unit is destroyed
 Events.on(UnitDestroyEvent, event => {
@@ -8,7 +9,11 @@ Events.on(UnitDestroyEvent, event => {
         Vars.ui.hudfrag.showToast("Wasted.");
     }
   })
-Events.on(SectorCaptureEvent, event => {
+  Events.on(SectorCaptureEvent, event => {
+    const Victory = lib.loadSound("Victory");
+    Victory.at(1, 1);
+})
+Events.on(WaveEvent, event => {
     const Victory = lib.loadSound("Victory");
     Victory.at(1, 1);
 })
