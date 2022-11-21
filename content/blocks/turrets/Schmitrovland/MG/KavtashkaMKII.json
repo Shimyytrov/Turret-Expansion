@@ -4,7 +4,7 @@
     "description": "Improved version, which have a longer range and damage. Also can shoot faster.",
     "health": 350,
     "size": 2,
-    "reloadTime": 6,
+    "reload": 6,
     "inaccuracy": 3,
     "shootSound": "KavtashkaMKII",
     "range": 200,
