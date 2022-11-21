@@ -4,7 +4,7 @@
     "description": "Ultimate version, which have a longer range and damage. Also can shoot faster(Gotta go BRRRRRR).",
     "health": 450,
     "size": 2,
-    "reloadTime": 3,
+    "reload": 3,
     "inaccuracy": 1,
     "shootSound": "KavtashkaMKIII",
     "range": 225,
