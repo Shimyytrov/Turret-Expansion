@@ -4,11 +4,11 @@
     "description": "The ultimate version of Steinka. I hope it isn't over-powered...",
     "health": 450,
     "size": 2,
-    "reloadTime": 20,
+    "reload": 20,
     "inaccuracy": 7,
     "shootSound": "SteinkaMKIII",
     "range": 175,
-    "shots": 12,
+    "ammoPerShot": 12,
     "rotateSpeed": 25,
     "ammoTypes": {
         "copper": {
