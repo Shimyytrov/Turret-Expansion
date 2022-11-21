@@ -4,7 +4,7 @@
     "description": "Designed by Kalyona Industriya. A powerful machine gun to protect the buildings.",
     "health": 300,
     "size": 2,
-    "reloadTime": 10,
+    "reload": 10,
     "inaccuracy": 2,
     "shootSound": "KavtashkaMKI",
     "range": 175,
