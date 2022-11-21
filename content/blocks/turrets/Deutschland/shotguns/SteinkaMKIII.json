@@ -12,10 +12,11 @@
     "shoot":{
         "type": "ShootMulti",
         "source": "ShootAlternate",
-        "dist": [
-          "type": "ShootBarrel",
-          "shots": 12,
-          "barrels": [
+        "dest": [
+           {
+           "type": "ShootBarrel",
+           "shots": 12,
+           "barrels": [
                 0, 0, 0,
                 6, 2, 0,
                 -6, 2, 0,
