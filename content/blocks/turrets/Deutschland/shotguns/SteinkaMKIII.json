@@ -12,6 +12,7 @@
     "shoot":{
         "type": "ShootMulti",
         "shots": 12,
+        "source": "ShootAlternate",
         "spread": 1
         },
     "ammoTypes": {
