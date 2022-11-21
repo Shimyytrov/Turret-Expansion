@@ -4,12 +4,24 @@
     "description": "Designed by Deutsche Legendenindustrie. Effective on Crawlers!",
     "health": 300,
     "size": 2,
-    "reloadTime": 30,
+    "reload": 30,
     "inaccuracy": 10,
     "shootSound": "SteinkaMKI",
     "range": 125,
-    "shots": 12,
     "rotateSpeed": 30,
+    "shoot":{
+        "type": "ShootMulti",
+        "source": "ShootAlternate",
+        "dest": [
+           {
+           "type": "ShootBarrel",
+           "shots": 12,
+           "barrels": [
+                0, 0, 0,
+              ],
+            },
+          ],
+        },
     "ammoTypes": {
         "copper": {
           "speed": 8,
