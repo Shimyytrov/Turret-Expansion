@@ -8,8 +8,12 @@
     "inaccuracy": 7,
     "shootSound": "SteinkaMKIII",
     "range": 175,
-    "ammoPerShot": 12,
     "rotateSpeed": 25,
+    "shoot":{
+        "type": "ShootMulti",
+        "shots": 12,
+        "spread": 1
+        },
     "ammoTypes": {
         "copper": {
           "speed": 12,
