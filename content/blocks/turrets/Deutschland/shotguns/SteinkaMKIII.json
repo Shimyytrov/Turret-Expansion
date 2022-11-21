@@ -11,9 +11,17 @@
     "rotateSpeed": 25,
     "shoot":{
         "type": "ShootMulti",
-        "shots": 12,
         "source": "ShootAlternate",
-        "spread": 1
+        "dist": [
+          "type": "ShootBarrel",
+          "shots": 12,
+          "barrels": [
+                0, 0, 0,
+                6, 2, 0,
+                -6, 2, 0,
+              ],
+            },
+          ],
         },
     "ammoTypes": {
         "copper": {
