@@ -4,7 +4,7 @@
     "description": "Designed by Kalyona Industriya. A rocket launching base to launch missiles to the whole map.",
     "health": 15000,
     "size": 4,
-    "reloadTime": 15,
+    "reload": 15,
     "inaccuracy": 360,
     "shootSound": "KalinkaRL",
     "range": 60000,
