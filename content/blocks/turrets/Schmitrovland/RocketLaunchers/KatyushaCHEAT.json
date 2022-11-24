@@ -12,6 +12,7 @@
     "xRand": 12,
     "shootCone": 360,
     "rotateSpeed": 0,
+    "maxAmmo": 10124,
     "ammoTypes": {
         "blast-compound": {
             "type": "MissileBulletType",
