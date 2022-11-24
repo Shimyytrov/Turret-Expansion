@@ -21,7 +21,7 @@
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
           "hitSound": "hitMinigun",
-          "ammoMultiplier": 10
+          "ammoMultiplier": 100
         },
         "lead": {
             "speed": 10,
@@ -32,7 +32,7 @@
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
             "hitSound": "hitMinigun",
-            "ammoMultiplier": 10
+            "ammoMultiplier": 100
         },
         "graphite": {
             "speed": 12,
@@ -45,7 +45,7 @@
             "homingRange": 100,
             "homingPower": 0.1,
             "hitSound": "hitMinigun",
-            "ammoMultiplier": 10
+            "ammoMultiplier": 100
         }
     },
     "category": "turret",
