@@ -9,6 +9,8 @@
     "shootSound": "SteinkaMKIII",
     "range": 255,
     "rotateSpeed": 25,
+    "targetGround": false,
+    "targetAir": true,
     "shoot":{
         "type": "ShootMulti",
         "source": "ShootAlternate",
