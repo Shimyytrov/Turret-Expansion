@@ -17,7 +17,7 @@
         "dest": [
            {
            "type": "ShootBarrel",
-           "shots": 6,
+           "shots": 6
            "barrels": [
                 0, 0, 0,
               ],
