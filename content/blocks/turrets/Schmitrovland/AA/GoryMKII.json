@@ -4,7 +4,7 @@
     "description": "The advanced version of ŔKAA-14.",
     "health": 250,
     "size": 2,
-    "reload": 2,
+    "reload": 3,
     "inaccuracy": 7,
     "shootSound": "AAmk2",
     "range": 450,
@@ -22,6 +22,7 @@
            "barrels": [
                 3, 0, 0,
                 -3, 0, 0,
+                0, 0, 0,
               ],
             },
           ],
