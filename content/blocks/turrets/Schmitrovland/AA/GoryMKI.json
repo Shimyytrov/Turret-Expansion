@@ -33,7 +33,7 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "hitShotgun"
+          "hitSound": "MetalHitRL"
         },
         "lead": {
             "speed": 15,
@@ -43,7 +43,7 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "hitShotgun"
+            "hitSound": "LeadHit"
           },
         "metaglass": {
             "speed": 20,
@@ -56,7 +56,7 @@
             "hitEffect": "flakExplosion",
             "splashDamage": 70,
             "splashDamageRadius": 35,
-            "hitSound": "hitShotgun"
+            "hitSound": "GlassHit"
         }
     },
     "category": "turret",
