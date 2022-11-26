@@ -11,6 +11,7 @@
     "rotateSpeed": 18,
     "targetGround": false,
     "targetAir": true,
+    "maxAmmo": 2500,
     "shoot":{
         "type": "ShootMulti",
         "source": "ShootAlternate",
@@ -36,7 +37,8 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "MetalHitRL"
+          "hitSound": "MetalHitRL",
+          "ammoMultiplier": 100
           
         },
         "lead": {
@@ -49,7 +51,8 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "LeadHit"
+            "hitSound": "LeadHit",
+            "ammoMultiplier": 100
           },
         "metaglass": {
             "frontColor": "FFFFFF",
@@ -64,7 +67,8 @@
             "hitEffect": "flakExplosion",
             "splashDamage": 100,
             "splashDamageRadius": 45,
-            "hitSound": "GlassHit"
+            "hitSound": "GlassHit",
+            "ammoMultiplier": 100
         }
     },
     "category": "turret",
