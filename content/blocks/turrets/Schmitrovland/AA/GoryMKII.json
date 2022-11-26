@@ -76,6 +76,7 @@
     "requirements": [    
         "copper/30",
         "lead/15",
-        "graphite/2"
+        "graphite/15",
+        "titanium/5"
     ]
 }
