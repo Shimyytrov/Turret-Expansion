@@ -27,30 +27,37 @@
         },
     "ammoTypes": {
         "copper": {
+          "frontColor": "FFD04D",
+          "backColor": "863925",
           "speed": 12,
           "damage": 30,
-          "width": 3,
-          "height": 10,
+          "width": 5,
+          "height": 15,
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
           "hitSound": "MetalHitRL"
+          
         },
         "lead": {
+            "frontColor": "6F72FF",
+            "backColor": "1B1D6E",
             "speed": 15,
             "damage": 45,
-            "width": 2,
-            "height": 9,
+            "width": 5,
+            "height": 15,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
             "hitSound": "LeadHit"
           },
         "metaglass": {
+            "frontColor": "FFFFFF",
+            "backColor": "606060",
             "speed": 20,
             "damage": 60,
-            "width": 2,
-            "height": 9,
+            "width": 4,
+            "height": 15,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
