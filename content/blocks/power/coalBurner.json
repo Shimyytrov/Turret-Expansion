@@ -10,7 +10,7 @@
     ],
   },
   "category": "power",
-  "ambientSound": "coalBurner",
+  "ambientSound": "smelter",
   "ambientSoundVolume": 1,
   "research": "combustionGenerator",
   "requirements": [
