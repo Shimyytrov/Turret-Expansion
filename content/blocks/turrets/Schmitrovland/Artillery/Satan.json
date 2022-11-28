@@ -7,7 +7,7 @@
     "reload": 1080,
     "inaccuracy": 0,
     "shootSound": "Satan",
-    "range": 16384,
+    "range": 2048,
     "rotateSpeed": 2,
     "targetGround": true,
     "targetAir": false,
