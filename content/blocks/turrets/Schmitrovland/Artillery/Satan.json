@@ -27,6 +27,7 @@
         },
     "ammoTypes": {
         "thorium": {
+            "type": "ArtilleryBulletType",
             "frontColor": "FFD04D",
             "backColor": "863925",
             "speed": 8,
@@ -47,6 +48,7 @@
             "ammoMultiplier": 1
           },
           "titanium": {
+            "type": "ArtilleryBulletType",
             "frontColor": "34FFFF",
             "backColor": "762EFF",
             "speed": 7,
