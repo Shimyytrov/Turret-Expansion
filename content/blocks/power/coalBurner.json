@@ -35,7 +35,7 @@
   },
   "category": "power",
   "ambientSound": "coalBurner",
-  "ambientSoundVolume": 0.5,
+  "ambientSoundVolume": 0.1,
   "research": "combustionGenerator",
   "requirements": [
     "copper/30",
