@@ -17,6 +17,7 @@
       "suffix": "-rot",
       "rotateSpeed": 5
     },
+    {
       "type": "DrawRegion",
       "suffix": "-rot",
       "rotateSpeed": -5,
