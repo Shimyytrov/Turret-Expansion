@@ -24,7 +24,7 @@
     },
     {
       "type": "DrawRegion",
-      "suffix": "-cap"
+      "suffix": "-top"
     },
   ],
   "consumes": {
