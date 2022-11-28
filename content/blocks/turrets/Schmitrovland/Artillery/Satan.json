@@ -45,6 +45,9 @@
             "splashDamage": 8192,
             "splashDamageRadius": 1024,
             "buildingDamageMultiplier": 0.3,
+            "trailLength": 40,
+            "trailWidth": 15,
+            "trailColor": "863925",
             "ammoMultiplier": 1
           },
           "titanium": {
@@ -66,6 +69,9 @@
             "splashDamage": 4096,
             "splashDamageRadius": 512,
             "buildingDamageMultiplier": 0.5,
+            "trailLength": 40,
+            "trailWidth": 15,
+            "trailColor": "762EFF",
             "ammoMultiplier": 1
           }
     },
