@@ -43,6 +43,7 @@
             "homingPower": 0.03,
             "splashDamage": 8192,
             "splashDamageRadius": 1024,
+            "buildingDamageMultiplier": 0.1,
             "ammoMultiplier": 1
           },
           "titanium": {
@@ -62,6 +63,7 @@
             "homingPower": 0.03,
             "splashDamage": 4096,
             "splashDamageRadius": 512,
+            "buildingDamageMultiplier": 0.13,
             "ammoMultiplier": 1
           }
     },
