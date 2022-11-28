@@ -43,7 +43,7 @@
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
             "homingRange": 100,
-            "homingPower": 0.1,
+            "homingPower": 0.01,
             "hitSound": "hitMinigun",
             "ammoMultiplier": 100
         }
