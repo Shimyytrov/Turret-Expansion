@@ -1,0 +1,21 @@
+{
+  "type": "ConsumeGenerator",
+  "itemDuration": 60,
+  "size": 2,
+  "hasLiquids": false,
+  "powerProduction": 2,
+  "consumes": {
+    "items": [
+      "coal/1",
+    ],
+  },
+  "category": "power",
+  "ambientSound": "coalBurner",
+  "ambientSoundVolume": 1,
+  "research": "combustionGenerator",
+  "requirements": [
+    "copper/30",
+    "lead/15",
+    "graphite/5"
+  ]
+}
