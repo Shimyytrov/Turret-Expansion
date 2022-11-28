@@ -1,0 +1,76 @@
+{
+    "type": "ItemTurret",
+    "name": "[Artillery] ŔKAR-22 «Satan»",
+    "description": "A huge artillery. It takes forever to reload.",
+    "health": 2500,
+    "size": 3,
+    "reload": 1080,
+    "inaccuracy": 0,
+    "shootSound": "Satan",
+    "range": 16384,
+    "rotateSpeed": 2,
+    "targetGround": true,
+    "targetAir": false,
+    "maxAmmo": 15,
+    "shoot":{
+        "type": "ShootMulti",
+        "source": "ShootAlternate",
+        "dest": [
+           {
+           "type": "ShootBarrel",
+           "shots": 1,
+           "barrels": [
+                0, 0, 0,
+              ],
+            },
+          ],
+        },
+    "ammoTypes": {
+        "thorium": {
+            "frontColor": "FFD04D",
+            "backColor": "863925",
+            "speed": 8,
+            "damage": 8192,
+            "width": 32,
+            "height": 64,
+            "shootEffect": "shootBig",
+            "smokeEffect": "shootBigSmoke",
+            "lifetime": 1080,
+            "hitSound": "SatanEXP",
+            "despawnSound": "SatanEXP",
+            "homingRange": 2000,
+            "homingPower": 0.03,
+            "splashDamage": 8192,
+            "splashDamageRadius": 1024,
+            "ammoMultiplier": 1
+          },
+          "titanium": {
+            "frontColor": "34FFFF",
+            "backColor": "762EFF",
+            "speed": 7,
+            "damage": 4096,
+            "width": 32,
+            "height": 64,
+            "shootEffect": "shootBig",
+            "smokeEffect": "shootBigSmoke",
+            "lifetime": 1080,
+            "hitSound": "SatanEXP",
+            "despawnSound": "SatanEXP",
+            "homingRange": 2000,
+            "homingPower": 0.03,
+            "splashDamage": 4096,
+            "splashDamageRadius": 512,
+            "ammoMultiplier": 1
+          }
+    },
+    "category": "turret",
+    "research": "GoryMKI",
+    "requirements": [    
+        "copper/200",
+        "lead/150",
+        "graphite/50",
+        "titanium/100",
+        "thorium/50",
+        "silicon/50"
+    ]
+}
