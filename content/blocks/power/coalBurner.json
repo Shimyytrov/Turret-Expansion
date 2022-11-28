@@ -4,6 +4,21 @@
   "size": 2,
   "hasLiquids": false,
   "powerProduction": 2,
+  "drawer": [
+    {
+      "type": "DrawDefault"
+    },
+    {
+      "type": "DrawBlurSpin",
+      "suffix": "-rot",
+      "blurThresh": 0.4,
+      "rotateSpeed": 120
+    },
+    {
+      "type": "DrawRegion",
+      "suffix": "-top"
+    },
+  ],
   "consumes": {
     "items": [
       "coal/1",
