@@ -39,8 +39,6 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "homingRange": 100,
-            "homingPower": 0.01,
             "hitSound": "hitMG"
         }
     },
