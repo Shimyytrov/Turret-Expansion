@@ -1,0 +1,23 @@
+{
+    "type": "ItemTurret",
+    "reload": 35,
+    "shake": 4,
+    "range": 128,
+    "rotateSpeed": 5,
+    "recoil": 5,
+    "shoot":{
+        "type": "ShootSpread",
+        "source": "ShootAlternate",
+        "dest": [
+           {
+           "type": "ShootBarrel",
+           "shots": 1,
+           "barrels": [
+                2, 0, 0,
+                -2, 0, 0,
+                0, 0, 0,
+              ],
+            },
+          ],
+        },
+}
