@@ -7,17 +7,7 @@
     "recoil": 5,
     "shoot":{
         "type": "ShootSpread",
-        "source": "ShootAlternate",
-        "dest": [
-           {
-           "type": "ShootBarrel",
-           "shots": 1,
-           "barrels": [
-                2, 0, 0,
-                -2, 0, 0,
-                0, 0, 0,
-              ],
-            },
-          ],
+        "shots": 1,
+        "spread": 0
         },
 }
