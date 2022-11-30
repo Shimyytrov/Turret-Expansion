@@ -1,0 +1,12 @@
+{
+    "localizedName": "Flag of Poland(Polska)",
+    "description": "Flag of Poland. Every turrets above this flag are from Poland.",
+    "type": "Wall",
+    "health": 10,
+    "size": 3,
+    "requirements": [
+        "copper/1"
+    ],
+    "category": "defense",
+    "research": "duo"
+}
