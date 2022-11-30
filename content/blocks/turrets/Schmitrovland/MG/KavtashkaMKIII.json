@@ -6,7 +6,7 @@
     "size": 2,
     "reload": 3,
     "inaccuracy": 1,
-    "shootSound": "KavtashkaMKIII",
+    "shootSound": "Turrets/KavtashkaMKIII",
     "range": 225,
     "shots": 1,
     "rotateSpeed": 20,
@@ -19,7 +19,7 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "hitMG"
+          "hitSound": "Hits/hitMG"
         },
         "lead": {
             "speed": 10,
@@ -29,7 +29,7 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "hitMG"
+            "hitSound": "Hits/hitMG"
         },
         "graphite": {
             "speed": 12,
@@ -39,7 +39,7 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "hitMG"
+            "hitSound": "Hits/hitMG"
         }
     },
     "category": "turret",

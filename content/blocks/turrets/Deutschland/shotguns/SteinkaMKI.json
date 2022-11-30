@@ -6,7 +6,7 @@
     "size": 2,
     "reload": 30,
     "inaccuracy": 10,
-    "shootSound": "SteinkaMKI",
+    "shootSound": "Turrets/SteinkaMKI",
     "range": 125,
     "rotateSpeed": 30,
     "shoot":{
@@ -31,7 +31,7 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "hitShotgun"
+          "hitSound": "Hits/hitShotgun"
         },
         "lead": {
             "speed": 8,
@@ -41,7 +41,7 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "hitShotgun"
+            "hitSound": "Hits/hitShotgun"
           },
         "metaglass": {
             "speed": 10,
@@ -54,7 +54,7 @@
             "hitEffect": "flakExplosion",
             "splashDamage": 60,
             "splashDamageRadius": 25,
-            "hitSound": "hitShotgun"
+            "hitSound": "Hits/hitShotgun"
         }
     },
     "category": "turret",

@@ -6,7 +6,7 @@
     "size": 4,
     "reload": 15,
     "inaccuracy": 360,
-    "shootSound": "KalinkaRL",
+    "shootSound": "Turrets/KalinkaRL",
     "range": 60000,
     "shots": 4,
     "shootX": 0,
@@ -29,7 +29,7 @@
             "homingPower": 0.03,
             "splashDamage": 75,
             "splashDamageRadius": 100,
-            "hitSound": "ExplodeRL"
+            "hitSound": "Hits/ExplodeRL"
         },
         "pyratite": {
             "type": "MissileBulletType",
@@ -46,7 +46,7 @@
             "homingPower": 0.03,
             "splashDamage": 65,
             "splashDamageRadius": 60,
-            "hitSound": "ExplodeRL"
+            "hitSound": "Hits/ExplodeRL"
         },
         "silicon": {
             "type": "MissileBulletType",
@@ -60,7 +60,7 @@
             "lifetime": 120000,
             "homingRange": 2000,
             "homingPower": 0.08,
-            "hitSound": "MetalHitRL"
+            "hitSound": "Hits/MetalHitRL"
         }
     },
     "category": "turret",

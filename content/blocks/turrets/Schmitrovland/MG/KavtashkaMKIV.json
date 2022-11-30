@@ -6,7 +6,7 @@
     "size": 2,
     "reload": 0,
     "inaccuracy": 2,
-    "shootSound": "KavtashkaMKIV_raw",
+    "shootSound": "Turrets/KavtashkaMKIV_raw",
     "range": 225,
     "shots": 1,
     "maxAmmo": 6000,
@@ -20,7 +20,7 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "hitMinigun",
+          "hitSound": "Hits/hitMinigun",
           "ammoMultiplier": 100
         },
         "lead": {
@@ -31,7 +31,7 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "hitMinigun",
+            "hitSound": "Hits/hitMinigun",
             "ammoMultiplier": 100
         },
         "graphite": {
@@ -42,7 +42,7 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "hitMinigun",
+            "hitSound": "Hits/hitMinigun",
             "ammoMultiplier": 100
         }
     },

@@ -6,7 +6,7 @@
     "size": 1,
     "reload": 15,
     "inaccuracy": 7,
-    "shootSound": "AA-sg",
+    "shootSound": "Turrets/AA-sg",
     "range": 255,
     "rotateSpeed": 25,
     "targetGround": false,
@@ -33,7 +33,7 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "MetalHitRL"
+          "hitSound": "Hits/MetalHitRL"
         },
         "lead": {
             "speed": 15,
@@ -43,7 +43,7 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "LeadHit"
+            "hitSound": "Hits/LeadHit"
           },
         "metaglass": {
             "speed": 20,
@@ -56,7 +56,7 @@
             "hitEffect": "flakExplosion",
             "splashDamage": 70,
             "splashDamageRadius": 35,
-            "hitSound": "GlassHit"
+            "hitSound": "Hits/GlassHit"
         }
     },
     "category": "turret",
