@@ -2,7 +2,7 @@
     "type": "ItemTurret",
     "health": 550,
     "size": 3,
-    "reload": 35,
+    "reload": 20,
     "shake": 4,
     "range": 128,
     "rotateSpeed": 5,
@@ -11,8 +11,8 @@
     "shootCone": 30,
     "shoot":{
         "type": "ShootSpread",
-        "shots": 1,
-        "spread": 0
+        "shots": 3,
+        "spread": 20
         },
     "ammoTypes": {
         "titanium": {
