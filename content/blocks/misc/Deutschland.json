@@ -1,5 +1,5 @@
 {
-    "localizedName": "Flag of Deutschland",
+    "name": "Flag of Deutschland",
     "description": "Flag of Germany. Every turrets above this flag are from Germany.",
     "type": "Wall",
     "health": 10,
