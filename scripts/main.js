@@ -8,4 +8,9 @@ Events.on(UnitDestroyEvent, event => {
     if(event.unit.isPlayer()){
         Vars.ui.hudfrag.showToast("Wasted.");
     }
+  });
+Events.on(BlockBuildEndEvent, event => {
+    if(event.tile = turret-expansion.Polska()){
+        Vars.ui.hudfrag.showToast("Polska");
+    }
   })
