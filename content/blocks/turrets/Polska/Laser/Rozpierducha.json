@@ -32,7 +32,7 @@
             "toColor": "Pal.thoriumPink",
             "shootEffect": "thoriumShoot",
             "smokeEffect": "thoriumShoot"
-        },
+        }
     },
     "category": "turret",
     "research": "PolskaFlaga",
