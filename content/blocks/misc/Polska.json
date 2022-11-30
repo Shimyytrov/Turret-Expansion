@@ -4,7 +4,7 @@
     "type": "Wall",
     "health": 10,
     "size": 3,
-    "placeSound": "anthems/Polska",
+    "placeSound": "Anthems/Polska",
     "placePitchChange": false,
     "requirements": [
         "copper/1"
