@@ -10,7 +10,7 @@ Events.on(UnitDestroyEvent, event => {
     }
   });
 Events.on(BlockBuildEndEvent, event => {
-    if(event.tile == turret-expansion.Polska()){
+    if(event.tile == turret_expansion.Polska()){
         Vars.ui.hudfrag.showToast("Polska");
     }
   })
