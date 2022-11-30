@@ -35,7 +35,7 @@
         }
     },
     "category": "turret",
-    "research": "PolskaFlaga",
+    "research": "Polska",
     "requirements": [    
         "copper/255",
         "lead/55",
