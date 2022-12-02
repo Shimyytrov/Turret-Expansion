@@ -1,0 +1,46 @@
+{
+    "type": "ItemTurret",
+    "health": 550,
+    "size": 3,
+    "reload": 30,
+    "shake": 8,
+    "range": 256,
+    "rotateSpeed": 3,
+    "recoil": 10,
+    "shootSound": "Turrets/PolskiLaser",
+    "shootCone": 5,
+    "shoot":{
+        "type": "ShootSpread",
+        "shots": 1,
+        "spread": 0
+        },
+    "ammoTypes": {
+        "titanium": {
+            "type": "ShrapnelBulletType",
+            "length": 264,
+            "damage": 256,
+            "ammoMultiplier": 4,
+            "width": 20,
+            "reloadMultiplier": 1.5
+        },
+        "thorium": {
+            "type": "ShrapnelBulletType",
+            "length": 272,
+            "damage": 512,
+            "ammoMultiplier": 5,
+            "width": 24,
+            "toColor": "Pal.thoriumPink",
+            "shootEffect": "thoriumShoot",
+            "smokeEffect": "thoriumShoot"
+        }
+    },
+    "category": "turret",
+    "research": "Polska",
+    "requirements": [    
+        "copper/255",
+        "lead/55",
+        "graphite/100",
+        "titanium/35",
+        "thorium/100"
+    ]
+}
