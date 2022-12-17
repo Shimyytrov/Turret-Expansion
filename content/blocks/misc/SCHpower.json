@@ -1,0 +1,10 @@
+{
+    "type": "Wall",
+    "health": 10,
+    "size": 2,
+    "requirements": [
+        "copper/1"
+    ],
+    "category": "defense",
+    "research": "duo"
+}
