@@ -1,0 +1,97 @@
+{
+    "type": "ItemTurret",
+    "health": 600,
+    "size": 3,
+    "reload": 5,
+    "shake": 1,
+    "range": 278,
+    "rotateSpeed": 3,
+    "recoil": 5,
+    "shootSound": "Turrets/PolskiMG",
+    "shootCone": 5,
+    "inaccuracy": 2,
+    "shoot":{
+        "type": "ShootMulti",
+        "source": "ShootAlternate",
+        "dest": [
+           {
+           "type": "ShootBarrel",
+           "shots": 1,
+           "barrels": [
+                5, 0, 0,
+                -5, 0, 0,
+              ],
+            },
+          ],
+        },
+        "ammoTypes": {
+            "copper": {
+              "frontColor": "FFD04D",
+              "backColor": "863925",
+              "speed": 6,
+              "damage": 36,
+              "width": 4,
+              "height": 18,
+              "shootEffect": "shootSmall",
+              "smokeEffect": "shootSmallSmoke",
+              "lifetime": 30,
+              "hitSound": "Hits/MetalHitRL",
+              "ammoMultiplier": 5
+              
+            },
+            "lead": {
+                "frontColor": "6F72FF",
+                "backColor": "1B1D6E",
+                "speed": 8,
+                "damage": 60,
+                "width": 4,
+                "height": 18,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "lifetime": 30,
+                "hitSound": "Hits/LeadHit",
+                "ammoMultiplier": 5
+              },
+              "titanium": {
+                "frontColor": "00e4ff",
+                "backColor": "005963",
+                "speed": 12,
+                "damage": 128,
+                "width": 6,
+                "height": 18,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "lifetime": 30,
+                "hitEffect": "flakExplosion",
+                "splashDamage": 96,
+                "splashDamageRadius": 24,
+                "hitSound": "Hits/GlassHit",
+                "ammoMultiplier": 5
+            },
+            "thorium": {
+                "frontColor": "e400ff",
+                "backColor": "640070",
+                "speed": 10,
+                "damage": 192,
+                "width": 8,
+                "height": 20,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "lifetime": 30,
+                "hitEffect": "flakExplosion",
+                "splashDamage": 108,
+                "splashDamageRadius": 36,
+                "hitSound": "Hits/LeadHit",
+                "ammoMultiplier": 5
+            }
+        },
+    "category": "turret",
+    "research": "Niedźwiedź",
+    "requirements": [    
+        "copper/256",
+        "lead/64",
+        "graphite/128",
+        "titanium/32",
+        "thorium/16"
+    ]
+}

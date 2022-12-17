@@ -29,7 +29,7 @@
   },
   "category": "power",
   "ambientSound": "Power/steamTurbine",
-  "ambientSoundVolume": 0.1,
+  "ambientSoundVolume": 1,
   "research": "coalBurner",
   "requirements": [
     "copper/40",
