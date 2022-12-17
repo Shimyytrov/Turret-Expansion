@@ -5,7 +5,7 @@
   "size": 3,
   "hasLiquids": true,
   "powerProduction": 10,
-  "warmupSpeed": 0.001,
+  "warmupSpeed": 0.005,
   "drawer": [
     {
       "type": "DrawDefault"
