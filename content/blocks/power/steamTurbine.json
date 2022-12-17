@@ -25,9 +25,7 @@
     "items": [
       "coal/1",
     ],
-    "liquid": [
-      "water/0.1",
-    ],
+    "liquid": "water/0.1",
   },
   "category": "power",
   "ambientSound": "Power/steamTurbine",
