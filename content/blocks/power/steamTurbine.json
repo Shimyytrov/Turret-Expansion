@@ -1,0 +1,41 @@
+{
+  "type": "ConsumeGenerator",
+  "itemDuration": 300,
+  "liquidCapacity": 180,
+  "size": 3,
+  "hasLiquids": true,
+  "powerProduction": 10,
+  "warmupSpeed": 0.01,
+  "drawer": [
+    {
+      "type": "DrawDefault"
+    },
+    {
+      "type": "DrawBlurSpin",
+      "suffix": "-fan",
+      "blurThresh": 0.5,
+      "rotateSpeed": 120
+    },
+    {
+      "type": "DrawRegion",
+      "suffix": "-top"
+    },
+  ],
+  "consumes": {
+    "items": [
+      "coal/1",
+    ],
+    "liquid": [
+      "water/0.1",
+    ],
+  },
+  "category": "power",
+  "ambientSound": "Power/steamTurbine",
+  "ambientSoundVolume": 0.1,
+  "research": "coalBurner",
+  "requirements": [
+    "copper/40",
+    "lead/25",
+    "graphite/10"
+  ]
+}
