@@ -37,7 +37,6 @@
               "lifetime": 30,
               "hitSound": "Hits/MetalHitRL",
               "ammoMultiplier": 5
-              
             },
             "lead": {
                 "frontColor": "6F72FF",
