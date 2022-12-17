@@ -5,7 +5,7 @@
     "reload": 5,
     "shake": 1,
     "range": 278,
-    "rotateSpeed": 3,
+    "rotateSpeed": 6,
     "recoil": 5,
     "shootSound": "Turrets/PolskiMG",
     "shootCone": 5,
@@ -28,7 +28,7 @@
             "copper": {
               "frontColor": "FFD04D",
               "backColor": "863925",
-              "speed": 6,
+              "speed": 10,
               "damage": 36,
               "width": 4,
               "height": 18,
@@ -42,7 +42,7 @@
             "lead": {
                 "frontColor": "6F72FF",
                 "backColor": "1B1D6E",
-                "speed": 8,
+                "speed": 10,
                 "damage": 60,
                 "width": 4,
                 "height": 18,
