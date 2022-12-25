@@ -36,7 +36,7 @@
   "category": "power",
   "ambientSound": "Power/coalBurner",
   "ambientSoundVolume": 0.1,
-  "research": "combustionGenerator",
+  "research": "SCHpower",
   "requirements": [
     "copper/30",
     "lead/15",
