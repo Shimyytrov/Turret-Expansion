@@ -1,7 +1,5 @@
-v0.0.2 Beta update note:
+v0.0.3 Beta update note:
 
-- New turret of Schmitrovland: RL Kalinka
-- New turret of Schmitrovland: RLC Katyusha
-- Little changes on Schmitrovland's Kavtashka MKIV
-- Now you can hear sounds when bullets hit a enemy or despawn!
-- Some changes on SFXs
+- I'm SOOOOOOO SORRY because we added a TONS of blocks
+- Polska - 3 turrets
+- Schmitrovland - about 5 turrets
