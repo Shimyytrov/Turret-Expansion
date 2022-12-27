@@ -1,6 +1,6 @@
 {
     "type": "flying",
-    "speed": 5,
+    "speed": 4,
     "accel": 0.05,
     "drag": 0.02,
     "flying": true,
@@ -26,8 +26,8 @@
                 "type": "BasicBulletType",
                 "width": 5,
                 "height": 24,
-                "speed": 10,
-                "lifetime": 60,
+                "speed": 2.25,
+                "lifetime": 15,
                 "damage": 25,
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
