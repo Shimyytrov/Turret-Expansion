@@ -8,6 +8,9 @@
     "hitSize": 9,
     "itemCapacity": 50,
     "range": 144,
+    "targetAir": true,
+    "targetGround": true,
+    "faceTarget": true,
     "weapons": [
         {
             "range": 144,
