@@ -3,7 +3,7 @@
   "itemDuration": 240,
   "size": 2,
   "hasLiquids": false,
-  "powerProduction": 2,
+  "powerProduction": 1.5,
   "warmupSpeed": 0.005,
   "drawer": [
     {

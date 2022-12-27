@@ -4,7 +4,7 @@
   "liquidCapacity": 180,
   "size": 3,
   "hasLiquids": true,
-  "powerProduction": 10,
+  "powerProduction": 7,
   "warmupSpeed": 0.005,
   "drawer": [
     {

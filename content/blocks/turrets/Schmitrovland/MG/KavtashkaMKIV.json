@@ -14,7 +14,7 @@
     "ammoTypes": {
         "copper": {
           "speed": 8,
-          "damage": 45,
+          "damage": 16,
           "width": 2,
           "height": 9,
           "shootEffect": "shootSmall",
@@ -25,7 +25,7 @@
         },
         "lead": {
             "speed": 10,
-            "damage": 55,
+            "damage": 24,
             "width": 3,
             "height": 10,
             "shootEffect": "shootSmall",
@@ -36,7 +36,7 @@
         },
         "graphite": {
             "speed": 12,
-            "damage": 85,
+            "damage": 36,
             "width": 2,
             "height": 10,
             "shootEffect": "shootSmall",

@@ -18,7 +18,7 @@
             "mirror": false,
             "rotate": false,
             "reload": 6,
-            "recoil": 1,
+            "recoil": 2,
             "ejectEffect": "casing2",
             "shake": 2,
             "bullet": {
@@ -27,7 +27,7 @@
                 "height": 24,
                 "speed": 12,
                 "lifetime": 15,
-                "damage": 25,
+                "damage": 24,
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 2,
