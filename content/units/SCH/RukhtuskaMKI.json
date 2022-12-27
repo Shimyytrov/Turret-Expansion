@@ -11,6 +11,7 @@
     "targetAir": true,
     "targetGround": true,
     "faceTarget": true,
+    "loopSound": "Units/Rukhtuska",
     "weapons": [
         {
             "y": 0,
