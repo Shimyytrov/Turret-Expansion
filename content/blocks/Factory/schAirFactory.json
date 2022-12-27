@@ -9,7 +9,7 @@
     "plans": [
         {
             "unit": "RukhtuskaMKI",
-            "time": 60,
+            "time": 600,
             "requirements": [
                 "lead/30",
                 "silicon/10",
