@@ -1,0 +1,36 @@
+{
+    "speed": 5,
+    "accel": 0.02,
+    "drag": 0.05,
+    "flying": true,
+    "health": 100,
+    "engineOffset": 6,
+    "hitSize": 9,
+    "itemCapacity": 50,
+    "weapons": [
+        {
+            "y": 0,
+            "x": 0,
+            "mirror": false,
+            "rotate": false,
+            "reload": 6,
+            "recoil": 1,
+            "ejectEffect": "casing2",
+            "shake": 2,
+            "bullet": {
+                "type": "BasicBulletType",
+                "width": 5,
+                "height": 12,
+                "lifetime": 60,
+                "damage": 25,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "ammoMultiplier": 2,
+                "frontColor": "52239f",
+                "backColor": "6d56bf",
+                "lightColor": "ff0000"
+            },
+            "shootSound": "Turrets/KavtashkaMKI"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "UnitFactory",
+    "health": 500,
+    "size": 3,
+    "ambientSound": "Factory/schAirFactory",
+    "consumes": {
+        "power": 1.5
+    },
+    "plans": [
+        {
+            "unit": "RukhtuskaMKI",
+            "time": 60,
+            "requirements": [
+                "lead/30",
+                "silicon/10",
+                "graphite/5"
+            ]
+        }
+    ],
+    "requirements": [
+        "lead/35",
+        "copper/50"
+    ],
+    "research": "air-factory",
+    "category": "units"
+}
