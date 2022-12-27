@@ -1,12 +1,13 @@
 {
-    "speed": 5,
+    "speed": 7,
     "accel": 0.05,
-    "drag": 0.05,
+    "drag": 0.02,
     "flying": true,
-    "health": 100,
+    "health": 360,
     "engineOffset": 6,
     "hitSize": 9,
     "itemCapacity": 50,
+    "range": 144,
     "weapons": [
         {
             "y": 0,
@@ -20,7 +21,7 @@
             "bullet": {
                 "type": "BasicBulletType",
                 "width": 5,
-                "height": 12,
+                "height": 24,
                 "speed": 10,
                 "lifetime": 60,
                 "damage": 25,
