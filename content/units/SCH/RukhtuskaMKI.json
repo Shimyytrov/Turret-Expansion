@@ -1,4 +1,5 @@
 {
+    "type": "flying",
     "speed": 5,
     "accel": 0.05,
     "drag": 0.02,
@@ -7,13 +8,12 @@
     "engineOffset": 6,
     "hitSize": 9,
     "itemCapacity": 50,
-    "range": 144,
+    "maxRange": 144,
     "targetAir": true,
     "targetGround": true,
     "faceTarget": true,
     "weapons": [
         {
-            "range": 144,
             "y": 0,
             "x": 0,
             "mirror": false,
