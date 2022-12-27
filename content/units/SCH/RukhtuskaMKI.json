@@ -8,7 +8,7 @@
     "engineOffset": 6,
     "hitSize": 9,
     "itemCapacity": 50,
-    "maxRange": 20,
+    "range": 144,
     "targetAir": true,
     "targetGround": true,
     "faceTarget": true,
