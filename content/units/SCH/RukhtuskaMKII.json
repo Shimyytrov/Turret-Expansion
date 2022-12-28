@@ -23,7 +23,7 @@
             "x": 4,
             "mirror": true,
             "rotate": false,
-            "reload": 4,
+            "reload": 10,
             "recoil": 8,
             "ejectEffect": "casing2",
             "shake": 2,
@@ -37,9 +37,9 @@
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 2,
-                "frontColor": "52239f",
-                "backColor": "6d56bf",
-                "lightColor": "ff0000"
+                "frontColor": "00ff00",
+                "backColor": "19cc19",
+                "lightColor": "00ff00"
             },
             "shootSound": "Turrets/KavtashkaMKII"
         },
@@ -48,7 +48,7 @@
             "x": 0,
             "mirror": false,
             "rotate": true,
-            "reload": 12,
+            "reload": 30,
             "recoil": 2,
             "ejectEffect": "casing2",
             "shake": 2,
