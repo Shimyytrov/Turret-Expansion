@@ -14,23 +14,26 @@
     "autoFindTarget": true,
     "forceMultiTarget": true,
     "circleTarget": true,
+    "rotateToBuilding": false,
+    "buildSpeed": 2,
+    "buildRange": 100,
     "weapons": [
         {
             "y": 0,
-            "x": 0,
-            "mirror": false,
+            "x": 1,
+            "mirror": true,
             "rotate": false,
-            "reload": 6,
-            "recoil": 2,
+            "reload": 4,
+            "recoil": 8,
             "ejectEffect": "casing2",
             "shake": 2,
             "bullet": {
                 "type": "BasicBulletType",
                 "width": 5,
-                "height": 24,
-                "speed": 12,
-                "lifetime": 15,
-                "damage": 24,
+                "height": 64,
+                "speed": 16,
+                "lifetime": 12,
+                "damage": 36,
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 2,
@@ -38,8 +41,8 @@
                 "backColor": "6d56bf",
                 "lightColor": "ff0000"
             },
-            "shootSound": "Turrets/KavtashkaMKI"
+            "shootSound": "Turrets/KavtashkaMKII"
         }
     ],
-    "research": "flare"
+    "research": "RukhtuskaMKI"
 }
