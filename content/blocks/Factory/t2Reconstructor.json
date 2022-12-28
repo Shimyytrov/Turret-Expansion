@@ -3,6 +3,7 @@
     "health": 500,
     "size": 3,
     "ambientSound": "Factory/schAirFactory",
+    "constructTime": 600,
     "consumes": {
         "power": 1,
         "items": [
@@ -10,11 +11,7 @@
         ]
     },
     "upgrades": [
-        {
-            "from": "RukhtuskaMKI",
-            "to": "RukhtuskaMKII",
-            "time": 600
-        }
+        ["RukhtuskaMKI", "RukhtuskaMKII"]
     ],
     "requirements": [
         "lead/35",
