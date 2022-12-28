@@ -16,7 +16,7 @@
     "circleTarget": true,
     "rotateToBuilding": false,
     "buildSpeed": 2,
-    "buildRange": 100,
+    "buildRange": 256,
     "weapons": [
         {
             "y": 0,
