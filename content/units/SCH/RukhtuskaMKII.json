@@ -20,7 +20,7 @@
     "weapons": [
         {
             "y": 0,
-            "x": 1,
+            "x": 4,
             "mirror": true,
             "rotate": false,
             "reload": 4,
@@ -42,6 +42,28 @@
                 "lightColor": "ff0000"
             },
             "shootSound": "Turrets/KavtashkaMKII"
+        },
+        {
+            "y": 0,
+            "x": 0,
+            "mirror": false,
+            "rotate": true,
+            "reload": 12,
+            "recoil": 2,
+            "ejectEffect": "casing2",
+            "shake": 2,
+            "bullet": {
+                "type": "BasicBulletType",
+                "width": 12,
+                "height": 16,
+                "speed": 3.6,
+                "lifetime": 60,
+                "damage": 36,
+                "shootEffect": "shootBig",
+                "smokeEffect": "shootBigSmoke",
+                "ammoMultiplier": 2
+            },
+            "shootSound": "Turrets/AA-sg"
         }
     ],
     "research": "RukhtuskaMKI"
