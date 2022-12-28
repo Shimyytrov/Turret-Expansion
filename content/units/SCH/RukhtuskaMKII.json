@@ -1,16 +1,18 @@
 {
     "type": "flying",
-    "speed": 4,
-    "accel": 0.05,
+    "speed": 5,
+    "accel": 0.1,
     "drag": 0.02,
     "flying": true,
-    "health": 360,
+    "health": 440,
     "engineOffset": 6,
     "hitSize": 9,
-    "itemCapacity": 50,
+    "itemCapacity": 70,
     "targetAir": true,
     "targetGround": true,
     "faceTarget": true,
+    "autoFindTarget": true,
+    "forceMultiTarget": true,
     "circleTarget": true,
     "weapons": [
         {
