@@ -37,7 +37,7 @@
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 4,
-                "frontColor": "ffffff",
+                "frontColor": "ffeeee",
                 "backColor": "ff0000",
                 "lightColor": "ff0000"
             },
