@@ -37,8 +37,8 @@
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 4,
-                "frontColor": "ee0000",
-                "backColor": "19cc19",
+                "frontColor": "ffffff",
+                "backColor": "ff0000",
                 "lightColor": "ff0000"
             },
             "shootSound": "Turrets/KavtashkaMKIII"
