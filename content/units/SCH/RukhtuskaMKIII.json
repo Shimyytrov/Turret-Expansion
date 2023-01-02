@@ -26,7 +26,7 @@
             "reload": 4,
             "recoil": 8,
             "ejectEffect": "casing3",
-            "shake": 5,
+            "shake": 3,
             "bullet": {
                 "type": "BasicBulletType",
                 "width": 5,
@@ -51,7 +51,7 @@
             "reload": 6,
             "recoil": 2,
             "ejectEffect": "casing2",
-            "shake": 5,
+            "shake": 3,
             "bullet": {
                 "type": "ArtilleryBulletType",
                 "width": 12,
