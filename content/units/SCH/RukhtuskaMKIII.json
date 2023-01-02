@@ -1,0 +1,70 @@
+{
+    "type": "flying",
+    "speed": 6,
+    "accel": 0.1,
+    "drag": 0.02,
+    "flying": true,
+    "health": 512,
+    "engineOffset": 6,
+    "hitSize": 10,
+    "itemCapacity": 100,
+    "targetAir": true,
+    "targetGround": true,
+    "faceTarget": true,
+    "autoFindTarget": true,
+    "forceMultiTarget": true,
+    "circleTarget": true,
+    "rotateToBuilding": false,
+    "buildSpeed": 2.5,
+    "buildRange": 360,
+    "weapons": [
+        {
+            "y": 0,
+            "x": 4,
+            "mirror": true,
+            "rotate": false,
+            "reload": 4,
+            "recoil": 8,
+            "ejectEffect": "casing3",
+            "shake": 5,
+            "bullet": {
+                "type": "BasicBulletType",
+                "width": 5,
+                "height": 48,
+                "speed": 24,
+                "lifetime": 12,
+                "damage": 48,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "ammoMultiplier": 4,
+                "frontColor": "ee0000",
+                "backColor": "19cc19",
+                "lightColor": "ff0000"
+            },
+            "shootSound": "Turrets/KavtashkaMKIII"
+        },
+        {
+            "y": 0,
+            "x": 0,
+            "mirror": false,
+            "rotate": true,
+            "reload": 6,
+            "recoil": 2,
+            "ejectEffect": "casing2",
+            "shake": 5,
+            "bullet": {
+                "type": "ArtilleryBulletType",
+                "width": 12,
+                "height": 16,
+                "speed": 6,
+                "lifetime": 48,
+                "damage": 48,
+                "shootEffect": "shootBig",
+                "smokeEffect": "shootBigSmoke",
+                "ammoMultiplier": 2
+            },
+            "shootSound": "Turrets/AAmk2"
+        }
+    ],
+    "research": "RukhtuskaMKII"
+}
