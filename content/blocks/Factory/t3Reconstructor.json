@@ -11,13 +11,13 @@
         ]
     },
     "upgrades": [
-        ["RukhtuskaMKI", "RukhtuskaMKII"]
+        ["RukhtuskaMKII", "RukhtuskaMKIII"]
     ],
     "requirements": [
         "lead/35",
         "copper/50",
-        "silicon/15"
+        "silicon/20"
     ],
-    "research": "schAirFactory",
+    "research": "t2Reconstructor",
     "category": "units"
 }
