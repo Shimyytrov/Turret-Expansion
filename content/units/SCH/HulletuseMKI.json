@@ -1,5 +1,8 @@
 {
     "type": "flying",
+    "mineTier": 3,
+    "mineSpeed": 5,
+    "buildSpeed": 3,
     "speed": 4,
     "accel": 0.05,
     "drag": 0.017,
@@ -18,7 +21,7 @@
             "y": 0,
             "x": 0,
             "mirror": false,
-            "rotate": false,
+            "rotate": true,
             "reload": 15,
             "recoil": 2,
             "ejectEffect": "casing2",
@@ -34,8 +37,8 @@
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 2,
                 "frontColor": "ffffff",
-                "backColor": "ff0000",
-                "lightColor": "ff0000",
+                "backColor": "00ff00",
+                "lightColor": "00ff00",
                 "collidesTeam": true,
                 "healPercent": 5
             },
