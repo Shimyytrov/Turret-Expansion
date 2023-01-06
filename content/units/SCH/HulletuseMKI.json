@@ -37,7 +37,7 @@
                 "smokeEffect": "shootSmallSmoke",
                 "ammoMultiplier": 2,
                 "frontColor": "ffffff",
-                "backColor": "00ff00",
+                "backColor": "heal",
                 "lightColor": "00ff00",
                 "collidesTeam": true,
                 "healPercent": 5
