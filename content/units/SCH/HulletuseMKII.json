@@ -24,7 +24,7 @@
             "x": 5,
             "mirror": true,
             "rotate": true,
-            "reload": 3,
+            "reload": 5,
             "recoil": 2,
             "ejectEffect": "casing2",
             "shake": 2,
@@ -69,7 +69,7 @@
                 "backColor": "cc11ff",
                 "lightColor": "0000ff",
                 "homingRange": 40,
-                "homingPower": 0.1,
+                "homingPower": 0.5,
                 "splashDamageRadius": 36,
                 "splashDamage": 48,
                 "collidesTeam": false
