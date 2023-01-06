@@ -1,7 +1,7 @@
 {
     "type": "flying",
-    "mineTier": 3,
-    "mineSpeed": 5,
+    "mineTier": 4,
+    "mineSpeed": 7,
     "buildSpeed": 3,
     "speed": 4,
     "accel": 0.05,
