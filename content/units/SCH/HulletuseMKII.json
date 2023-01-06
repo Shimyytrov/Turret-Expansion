@@ -20,11 +20,11 @@
     "weapons": [
         {
             "name": "Hulle-gun",
-            "y": -4,
-            "x": 4,
+            "y": -5,
+            "x": 5,
             "mirror": true,
             "rotate": true,
-            "reload": 6,
+            "reload": 3,
             "recoil": 2,
             "ejectEffect": "casing2",
             "shake": 2,
@@ -48,7 +48,7 @@
         {
             "name": "Hulle-missile",
             "y": 4,
-            "x": 3,
+            "x": 5,
             "mirror": true,
             "rotate": true,
             "reload": 30,
