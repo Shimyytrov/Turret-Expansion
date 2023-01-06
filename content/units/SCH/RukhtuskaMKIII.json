@@ -17,7 +17,7 @@
     "rotateToBuilding": false,
     "buildSpeed": 2.5,
     "buildRange": 360,
-    "defaultCommand": "rebuildCommand",
+    "defaultCommand": "rebuild",
     "weapons": [
         {
             "y": 0,
