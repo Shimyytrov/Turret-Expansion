@@ -16,6 +16,7 @@
     "faceTarget": true,
     "circleTarget": false,
     "defaultCommand": "repair",
+    "rotateSpeed": 15,
     "weapons": [
         {
             "y": 0,
