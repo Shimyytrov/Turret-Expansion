@@ -40,7 +40,8 @@
                 "ammoMultiplier": 4,
                 "frontColor": "ffffff",
                 "backColor": "ff0000",
-                "lightColor": "ff0000"
+                "lightColor": "ff0000",
+                "healPercent": 5
             },
             "shootSound": "Turrets/KavtashkaMKIII"
         },
@@ -62,8 +63,7 @@
                 "damage": 48,
                 "shootEffect": "shootBig",
                 "smokeEffect": "shootBigSmoke",
-                "ammoMultiplier": 2,
-                "healPercent": 5
+                "ammoMultiplier": 2
             },
             "shootSound": "Turrets/AAmk2"
         }
