@@ -11,7 +11,8 @@
         ]
     },
     "upgrades": [
-        ["RukhtuskaMKI", "RukhtuskaMKII"]
+        ["RukhtuskaMKI", "RukhtuskaMKII"],
+        ["HulletuseMKI", "HulletuseMKII"]
     ],
     "requirements": [
         "lead/35",

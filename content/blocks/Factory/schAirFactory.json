@@ -15,6 +15,14 @@
                 "silicon/10",
                 "graphite/5"
             ]
+        },
+        {
+            "unit": "HulletuseMKI",
+            "time": 540,
+            "requirements": [
+                "silicon/10",
+                "graphite/5"
+            ]
         }
     ],
     "requirements": [
