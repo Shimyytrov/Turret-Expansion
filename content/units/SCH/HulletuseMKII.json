@@ -68,7 +68,7 @@
                 "frontColor": "ffffff",
                 "backColor": "cc11ff",
                 "lightColor": "0000ff",
-                "homingRange": 40,
+                "homingRange": 80,
                 "homingPower": 0.5,
                 "splashDamageRadius": 36,
                 "splashDamage": 48,
