@@ -17,6 +17,7 @@
     "rotateToBuilding": false,
     "buildSpeed": 2.5,
     "buildRange": 360,
+    "defaultCommand": "rebuildCommand",
     "weapons": [
         {
             "y": 0,
@@ -61,7 +62,8 @@
                 "damage": 48,
                 "shootEffect": "shootBig",
                 "smokeEffect": "shootBigSmoke",
-                "ammoMultiplier": 2
+                "ammoMultiplier": 2,
+                "healPercent": 5
             },
             "shootSound": "Turrets/AAmk2"
         }
