@@ -2,7 +2,7 @@
     "type": "flying",
     "mineTier": 4,
     "mineSpeed": 7,
-    "buildSpeed": 3,
+    "buildSpeed": 5,
     "speed": 4,
     "accel": 0.05,
     "drag": 0.017,
@@ -15,7 +15,7 @@
     "targetGround": true,
     "faceTarget": false,
     "circleTarget": false,
-    "defaultCommand": "repair",
+    "defaultCommand": "rebuild",
     "rotateSpeed": 15,
     "weapons": [
         {
