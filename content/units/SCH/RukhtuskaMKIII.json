@@ -40,8 +40,7 @@
                 "ammoMultiplier": 4,
                 "frontColor": "ffffff",
                 "backColor": "ff0000",
-                "lightColor": "ff0000",
-                "healPercent": 5
+                "lightColor": "ff0000"
             },
             "shootSound": "Turrets/KavtashkaMKIII"
         },
