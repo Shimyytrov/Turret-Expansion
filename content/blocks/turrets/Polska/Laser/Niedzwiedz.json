@@ -29,7 +29,7 @@
             "damage": 325,
             "ammoMultiplier": 5,
             "width": 18,
-            "toColor": "Pal.thoriumPink",
+            "toColor": "ec6fff",
             "shootEffect": "thoriumShoot",
             "smokeEffect": "thoriumShoot"
         }

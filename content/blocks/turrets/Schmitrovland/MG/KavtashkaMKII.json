@@ -19,7 +19,8 @@
           "shootEffect": "shootSmall",
           "smokeEffect": "shootSmallSmoke",
           "lifetime": 60,
-          "hitSound": "Hits/hitMG"
+          "hitSound": "Hits/hitMG",
+          "ammoMultiplier": 5
         },
         "lead": {
             "speed": 10,
@@ -29,7 +30,8 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "Hits/hitMG"
+            "hitSound": "Hits/hitMG",
+            "ammoMultiplier": 5
         },
         "graphite": {
             "speed": 12,
@@ -39,7 +41,8 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
-            "hitSound": "Hits/hitMG"
+            "hitSound": "Hits/hitMG",
+            "ammoMultiplier": 5
         }
     },
     "category": "turret",

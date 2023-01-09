@@ -29,7 +29,8 @@
             "homingPower": 0.03,
             "splashDamage": 75,
             "splashDamageRadius": 100,
-            "hitSound": "Hits/ExplodeRL"
+            "hitSound": "Hits/ExplodeRL",
+            "ammoMultiplier": 5
         },
         "pyratite": {
             "type": "MissileBulletType",
@@ -46,7 +47,8 @@
             "homingPower": 0.03,
             "splashDamage": 65,
             "splashDamageRadius": 60,
-            "hitSound": "Hits/ExplodeRL"
+            "hitSound": "Hits/ExplodeRL",
+            "ammoMultiplier": 5
         },
         "silicon": {
             "type": "MissileBulletType",
@@ -60,7 +62,8 @@
             "lifetime": 3600,
             "homingRange": 2000,
             "homingPower": 0.08,
-            "hitSound": "Hits/MetalHitRL"
+            "hitSound": "Hits/MetalHitRL",
+            "ammoMultiplier": 5
         }
     },
     "category": "turret",

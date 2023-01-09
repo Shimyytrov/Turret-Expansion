@@ -47,14 +47,14 @@
           },
         "metaglass": {
             "speed": 20,
-            "damage": 60,
+            "damage": 45,
             "width": 2,
             "height": 9,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
             "lifetime": 60,
             "hitEffect": "flakExplosion",
-            "splashDamage": 70,
+            "splashDamage": 36,
             "splashDamageRadius": 35,
             "hitSound": "Hits/GlassHit"
         }
