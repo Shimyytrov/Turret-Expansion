@@ -28,7 +28,7 @@
     "ammoTypes": {
         "thorium": {
             "type": "ArtilleryBulletType",
-            "frontColor": "FFD04D",
+            "frontColor": "cc00ff",
             "backColor": "863925",
             "speed": 8,
             "damage": 8192,
@@ -37,7 +37,7 @@
             "shootEffect": "shootBig",
             "smokeEffect": "shootBigSmoke",
             "lifetime": 1080,
-            "hitSound": "SatanEXP",
+            "hitSound": "Hits/SatanEXP",
             "hitEffect": "reactorExplosion",
             "despawnSound": "Hits/SatanEXP",
             "splashDamage": 8192,
@@ -59,7 +59,7 @@
             "shootEffect": "shootBig",
             "smokeEffect": "shootBigSmoke",
             "lifetime": 1080,
-            "hitSound": "SatanEXP",
+            "hitSound": "Hits/SatanEXP",
             "hitEffect": "reactorExplosion",
             "despawnSound": "Hits/SatanEXP",
             "splashDamage": 4096,
