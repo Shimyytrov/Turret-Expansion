@@ -20,7 +20,7 @@
             "length": 138,
             "damage": 150,
             "ammoMultiplier": 4,
-            "width": 16,
+            "width": 1,
             "reloadMultiplier": 1.5
         },
         "thorium": {
