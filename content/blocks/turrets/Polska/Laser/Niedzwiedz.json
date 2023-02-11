@@ -11,8 +11,8 @@
     "shootCone": 30,
     "shoot":{
         "type": "ShootSpread",
-        "shots": 360,
-        "spread": 1
+        "shots": 180,
+        "spread": 2
         },
     "ammoTypes": {
         "titanium": {
@@ -20,7 +20,7 @@
             "length": 138,
             "damage": 150,
             "ammoMultiplier": 4,
-            "width": 1,
+            "width": 16,
             "reloadMultiplier": 1.5
         },
         "thorium": {
