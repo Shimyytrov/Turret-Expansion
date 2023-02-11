@@ -11,8 +11,8 @@
     "shootCone": 30,
     "shoot":{
         "type": "ShootSpread",
-        "shots": 180,
-        "spread": 2
+        "shots": 3,
+        "spread": 20
         },
     "ammoTypes": {
         "titanium": {
