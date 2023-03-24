@@ -22,14 +22,14 @@
           "type": "RegionPart",
           "outline": true,
           "layer": 91
-        }
+        },
         {
           "type": "RegionPart",
           "outline": false,
           "layer": 90.5,
           "name": "hulletuseMKI-bottom"
         }
-      ]
+      ],
     "weapons": [
         {
             "y": 0,
